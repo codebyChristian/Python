@@ -1,5 +1,4 @@
 
-
 # Leia o preço de um produto e mostre as condições de pagamenrtos
 # Á vista dinheiro/cheque: 10% de desconto
 # Á vista no cartão: 5% de desconto
