@@ -3,6 +3,8 @@
 #vogais de cada palavra. Faça um print na tela
 #com o nome da palavra e suas respectivas
 #vogais
+
+
 palavras = ['Mario', 'Chris', 'Ernany', 'Nintendo',
             'Androido', 'Meliodas', 'Levi'
             , 'Mikasa', 'Armi', 'Dedo Duro']

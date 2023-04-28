@@ -3,6 +3,7 @@
 #Média >= 7, aprovado.
 #Média < 7 e >= 5, em exame.
 #Média < 5, reprovado.
+
 aluno = {}
 aluno['nome'] = input('Nome do aluno:')
 n1 = float(input('Qual a 1ª nota:'))

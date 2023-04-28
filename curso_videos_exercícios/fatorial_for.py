@@ -8,7 +8,7 @@
 
 # Versão 2
 
-n = int(input('Digite um némero para calcular o fatorial: '))
+n = int(input('Digite um número para calcular o fatorial: '))
 c = n  # c começa por n
 f = 1  # Multiplicação começa por 1
 print('Calculando {}! = '.format(n), end='')
@@ -21,8 +21,5 @@ print('{}'.format(f))
 
 
 # Criar outra versão com for
-print("FATORIAL")
-numero = int(input("Digite um número inteiro: "))
-calculo = numero
-fatorial = 1
+
 

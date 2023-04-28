@@ -8,5 +8,5 @@ for i in range(1, 7, 1):
     if number % 2 == 0:
         soma += number
         cont += 1
-print('Você informou {} números PARES e a soma é {}'.format(cont, soma))  # O print é sempre fora da ententação
+print('Você informou {} números PARES e a soma é {}'.format(cont, soma))         # O print é sempre fora da ententação
 

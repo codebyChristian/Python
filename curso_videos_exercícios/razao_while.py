@@ -1,4 +1,4 @@
-# refaça dsf 51, lendo umtermo e a razão de uma PA,
+# refaça dsf 51, lendo um termo e a razão de uma PA,
 # Mostrando os 10 primeiros termos da progressão usando while
 # Tempo 32:08
 

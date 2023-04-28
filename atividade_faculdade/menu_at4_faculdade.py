@@ -1,4 +1,5 @@
 #------ATIVIDADE PRÁTICA 1------- RU:4090111------------
+
 print('Bem Vindo a loja de Christian Ernany Cardoso Dos Santos: (RU:4090111)\n'   # Utilizei a quebra no print 
  'Veja nossa tabela de descontos:\n' # Usei o print desta maneira porque vi na apostila de orientações gerais
  'Até 9 unidades não terá desconto:\n' # Coloquei a tabela de descontos para o usuário 

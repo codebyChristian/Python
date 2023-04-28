@@ -1,4 +1,5 @@
 # COMEÇO DA 1ª FUNÇAO
+
 def dimensoesObjto():     # Essa função pede o comprimento, a largura e a altura. E retorna o valor em (dimensões) volume:
     while True:           # Crie um laço de repetição para caso ocorra algum erro ela volta para o ínicio:
         try:              # Tratativa de erro para caracteres não numericos :

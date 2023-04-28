@@ -1,4 +1,4 @@
-# Tentar acerta o N de 0 a 10 do computador
+# Tentar acerta o Nº de 0 a 10 do computador
 # Tem que tentar até conseguir, e mostra quantos palpites foram precisos
 
 from random import randint

@@ -1,5 +1,6 @@
-# Um programa que leia uma frase qualquer e diga se ela é palíndromo, sem espaços
+# Um programa que leia uma frase qualquer e diga se ela é palíndromo, sem espaços.
 # apos a sopa
+
 frase = str(input('Digite qualquer frase: > ')).strip().upper()   # tirar os espaços entre as palavras e transforma para maiuscula
 palavras = frase.split()  # Separa todas as palavras que tenha espaços
 junto = ''.join(palavras)  # Junta todas palavras com espaço

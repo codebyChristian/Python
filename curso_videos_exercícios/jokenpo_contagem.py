@@ -3,6 +3,7 @@
 #O computador irá sempre sortear um número  de 1 até 3 para jogar
 #Armazene todos os resultados em uma lista e  no final apresente o vencedor
 #Encerre o programa ao digitar zero
+
 import random
 
 

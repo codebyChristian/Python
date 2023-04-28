@@ -2,7 +2,7 @@
 
 termo = int(input('Digite qualquer número. > '))
 pa = int(input('Qual será a razão. > '))
-decimo = termo + (10 - 1) * pa   # O número 10, é quantos números vai apracer
+decimo = termo + (10 - 1) * pa   # O número 10, é quantos números vai aparecer
 for c in range(termo, decimo + 1, pa):
     print(c, end=' > ')
 print('Acabou')
