@@ -70,9 +70,9 @@ def rotaObejto():
 print('Bem-vindo ao PetShop do Christian Ernany C. Dos Santos')
 
 
-print('{:.2f}'.format(servico))
-#peso = pesoObjto()
-#melhoRota = rotaObejto()
-t#otal = servico * peso * melhoRota
-#print('O valor final é: R$ {:.2f}'.format(total))
+print('{:.2f}'.format(servico))   # desafio para resolver
+peso = pesoObjto()
+melhoRota = rotaObejto()
+total = servico * peso * melhoRota
+print('O valor final é: R$ {:.2f}'.format(total))
 # ----FIM DO PROGRAMA PRINCIPAL--------
